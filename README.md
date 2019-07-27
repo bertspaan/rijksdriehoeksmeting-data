@@ -10,3 +10,5 @@ Run `create-smaller-geojson.js` to create new versions of the GeoJSON file, tail
     ./create-geojson-version.js -v display < locations.geojson > locations.display.geojson
 
 Then, copy these files to https://github.com/bertspaan/rijksdriehoeksmeting.
+
+The original source file `inventaris-rd-dossiers-totaal.csv` in this repository is © Herman de Koning.
